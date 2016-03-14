@@ -1,0 +1,12 @@
+---
+tasks:
+- id: 1
+  title: Pick up potting soil
+  description: Get indoor and outdoor potting soil.
+- id: 2
+  title: Make a cake
+  description: Pick up cocoa, candles and a card for grandma
+- id: 3
+  title: Do taxes
+  description: Collect all the paperwork gathered in tax info drawer in kitchen
+total: 3
