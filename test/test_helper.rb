@@ -4,7 +4,9 @@ require File.expand_path('../../config/environment', __FILE__)
 require 'minitest/autorun'
 require 'minitest/pride'
 require 'tilt/erb'
+require 'capybara/dsl'
 
+Capybara.app = TaskManagerApp
 module TestHelpers
   def teardown
     task_manager.delete_all
