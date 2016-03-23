@@ -1,13 +1,14 @@
 ---
 tasks:
 - id: 1
-  title: Pick up potting soil
-  description: Get indoor and outdoor potting soil.
+  title: Changed title
+  description: Changed description
+  picture: 
 - id: 2
   title: Make lasagna
   description: Pick up cheese, tomatoes, noodles, mushrooms.
-- id: 5
-  title: Shovel the snow
-  description: shovel then make cocoa
+- id: 9
+  title: New title for my task
+  description: New description for my task
   picture: ''
-total: 5
+total: 10

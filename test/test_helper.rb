@@ -5,8 +5,10 @@ require 'minitest/autorun'
 require 'minitest/pride'
 require 'tilt/erb'
 require 'capybara/dsl'
+require 'tilt/erb'
 
 Capybara.app = TaskManagerApp
+
 module TestHelpers
   def teardown
     task_manager.delete_all
