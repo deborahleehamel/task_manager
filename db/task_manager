@@ -6,8 +6,8 @@ tasks:
 - id: 2
   title: Make lasagna
   description: Pick up cheese, tomatoes, noodles, mushrooms.
-- id: 4
-  title: Scary Puppy
-  description: Yay!
-  picture: http://img11.deviantart.net/0b04/i/2008/145/e/9/scary_puppy_by_newxyage.jpg
-total: 4
+- id: 5
+  title: Shovel the snow
+  description: shovel then make cocoa
+  picture: ''
+total: 5
