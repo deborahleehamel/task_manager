@@ -4,9 +4,10 @@ tasks:
   title: Pick up potting soil
   description: Get indoor and outdoor potting soil.
 - id: 2
-  title: Make a cake
-  description: Pick up cocoa, candles and a card for grandma
-- id: 3
-  title: Do taxes
-  description: Collect all the paperwork gathered in tax info drawer in kitchen
-total: 3
+  title: Make lasagna
+  description: Pick up cheese, tomatoes, noodles, mushrooms.
+- id: 4
+  title: Scary Puppy
+  description: Yay!
+  picture: http://img11.deviantart.net/0b04/i/2008/145/e/9/scary_puppy_by_newxyage.jpg
+total: 4
